@@ -1,4 +1,4 @@
-# ResearchPilot QA 🔬
+# ResearchPilot QA 
 
 A **multi-agent Retrieval-Augmented Generation (RAG)** pipeline for intelligent research question answering. It combines local PDF knowledge bases with live web search, orchestrated through a chain of specialized LLM agents.
 
